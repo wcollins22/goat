@@ -1,0 +1,56 @@
+
+body {
+  background-color: ivory;
+}
+
+.pic {
+  width: 200px;
+  border-radius: 25px;
+  margin-right: 10px;
+
+}
+
+title {
+  font-family: timesnewroman;
+}
+
+.heading {
+  font-weight: bold;
+  font-family: timesnewroman;
+}
+
+.heading1 {
+  font-weight: bold;
+  font-family: timesnewroman;
+  margin-left: 500px;
+}
+
+.txt {
+  font-family: timesnewroman;
+  color: black;
+  font-weight: bold;
+  margin-right: 500px;
+
+}
+
+.details {
+  font-size: 20px;
+}
+
+a:visited {
+  text-decoration: underline;
+  color: purple
+}
+
+a:hover {
+  color: black;
+  text-decoration-color: red;
+  text-decoration: underline;
+}
+
+.container {
+  display: flex;
+}
+
+
+
